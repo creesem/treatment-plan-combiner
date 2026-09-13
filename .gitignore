@@ -1,0 +1,45 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+.vscode/
+
+# IDE
+.idea/
+
+# Build / publish output
+publish/
+artifacts/
+
+# Runtime output
+Logs/
+Output/
+Output/**/DebugJson/
+
+# Input data: only the committed sample datasets are tracked.
+# Add your own CSV files under Input/ and they will not be published.
+Input/*
+!Input/sample/
+!Input/sample/*
+!Input/README.md
+
+# Local logs and temp files
+*.log
+*.tmp
+temp/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets (defensive; never commit these)
+*.pfx
+*.key
+.env
+.env.*
+secrets*.json

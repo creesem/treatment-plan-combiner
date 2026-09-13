@@ -1,0 +1,4 @@
+Id,Patient Id,Intervention Id,Objective Id,Plan Field Intv Narrative,Plan Field Intv Priority,Plan Field Intv Status,Plan Field Intv Frequency From,Plan Field Intv Frequency To,Plan Field Intv Frequency Period,Plan Field Intv Responsible Party,Plan Field Intv Start Date,Plan Field Intv Target Date,Plan Field Intv Staff For Review,Plan Field Intv Review Date,Plan Field Intv Completed Date
+TP-2026-0001,PAT-1001,INT-0001,OBJ-0001,Counselor leads a 30-minute CBT-based check-in.,High,Active,1,2,weeks,School Counselor,2026-01-12,2026-03-12,counselor.martin@example.com,2026-02-12,
+TP-2026-0001,PAT-1001,INT-0002,OBJ-0002,Teacher prompts a 5-minute breathing practice before each class.,Medium,Active,1,1,day,Teacher,2026-01-15,2026-04-15,teacher.kim@example.com,2026-02-15,
+TP-2026-0002,PAT-1002,INT-0003,OBJ-0003,Counselor reviews the morning routine checklist weekly.,High,New,1,1,week,School Counselor,2026-02-17,2026-04-17,counselor.martin@example.com,2026-03-01,

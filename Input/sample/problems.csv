@@ -1,0 +1,4 @@
+Id,Patient Id,Problem Id,Plan Field Problem Current Diagnosis,Plan Field Problem Narrative,Plan Field Problem Priority,Plan Field Problem Status,Plan Field Problem Type
+TP-2026-0001,PAT-1001,PRB-0001,F32.1,Symptoms of low mood interfere with daily functioning.,High,Active - Continue,Mental Health
+TP-2026-0001,PAT-1001,PRB-0002,F41.1,Excessive worry impacts academic participation.,Medium,Active - Continue,Mental Health
+TP-2026-0002,PAT-1002,PRB-0003,F41.1,Anxiety symptoms reported in multiple settings.,High,Active - Continue,Mental Health
