@@ -30,7 +30,22 @@ from `.NET` and a handful of NuGet packages.
 - Fully configurable via `appsettings.json`.
 - Unit-tested with xUnit (46 tests).
 
-## Requirements
+## CareLogic query review kit
+
+The [CareLogic review kit](docs/carelogic-review/README.md) includes a team
+walkthrough, illustrated query issues, and a standalone PowerShell checker for
+six CSV exports. The checker reports candidate issues and checks that still need
+source verification; it does not establish production readiness.
+
+- [Team walkthrough](docs/carelogic-review/Team-walkthrough.pdf)
+- [Illustrated review](docs/carelogic-review/Visual-review.pdf)
+- [Checker and instructions](docs/carelogic-review/README.md)
+
+The included exports and reports are synthetic. Keep actual office exports and
+generated reports outside the repository in an approved local location. This
+standalone review tool does not change the demonstration application's data contract.
+
+## Application requirements
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or newer.
   The project targets `net8.0` with `<RollForward>LatestMajor</RollForward>`, so it

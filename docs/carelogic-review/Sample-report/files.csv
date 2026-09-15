@@ -1,0 +1,7 @@
+"File","Status","Records","Detail"
+"plans.csv","LOADED","1","Header parsed; 5 columns."
+"problems.csv","LOADED","2","Header parsed; 4 columns."
+"goals.csv","LOADED","2","Header parsed; 6 columns."
+"objectives.csv","LOADED","2","Header parsed; 6 columns."
+"interventions.csv","LOADED","1","Header parsed; 7 columns."
+"activities.csv","LOADED","1","Header parsed; 9 columns."

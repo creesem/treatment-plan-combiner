@@ -1,0 +1,11 @@
+CareLogic result review - 2026-09-15 03:35:58
+Input: Sample-exports (bundled synthetic example)
+ERROR findings: 0; REVIEW findings: 6; INFO findings: 6
+Checks not run because prerequisites were missing: 0
+Start with files.csv and coverage.csv. Then filter findings.csv by Check and Level.
+SourceRecord is the 1-based DATA RECORD (excluding header), not a physical line when fields contain line breaks. 0 means file-level finding.
+Multiple findings may refer to the same record; counts are not unique clients or unique defects.
+ERROR = inconsistency in the supplied exports or unusable input; REVIEW = candidate needing explanation; INFO = context.
+No findings does not establish that the correct plan/program was chosen. SOURCE_REQUIRED checks remain unverified.
+Identifiers are retained to locate records. No narratives, diagnoses, names or emails are copied into the reports.
+Open identifiers as TEXT in Excel to preserve leading zeros and long IDs. Keep reports with the source exports under office access controls.

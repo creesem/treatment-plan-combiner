@@ -31,6 +31,10 @@ Input/*
 *.log
 *.tmp
 temp/
+tmp/
+
+# Local CareLogic checker reports (the synthetic Sample-report is tracked).
+CareLogic-audit-*/
 
 # OS files
 Thumbs.db
